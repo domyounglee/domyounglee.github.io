@@ -81,6 +81,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
+  jekyll (~> 3.9.0)
   jekyll-paginate
   jekyll-remote-theme
   kramdown-parser-gfm
